@@ -6,6 +6,3 @@
 - 🌍 I'm mostly active within the LinkedIn, Discord, and Github
 - 💬 Ask me about IT Networking, Cybersecurity, Content Creation, Collaborations, General Talk
 - 📫 How to reach me: Reach me: LinkedIn or Discord
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
