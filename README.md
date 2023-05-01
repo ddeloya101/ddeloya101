@@ -21,7 +21,7 @@
 
 </summary>
 
-- <b>osTicket (Help Desk Ticketing Systems)</b>
+- <b>osTicket (Help Desk Ticketing System Implementation)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ddeloya101/osticket_prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ddeloya101/osTicket---post-install-Configuration)
   - [osTicket: Ticket Lifecycle](https://github.com/ddeloya101/ticket-lifecycle)
