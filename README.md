@@ -32,5 +32,5 @@
   - [Network File Shares and Permissions](https://github.com/ddeloya101/Network-File-Shares-and_Permissions)
   - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
   
-  <h2>👨‍💻 Networking Projects:</h2>
-- Router on a Stick: (pending)
+  <b>👨‍💻 Networking Projects:<b>
+  - [Router on a Stick](https://github.com/ddeloya101/Router-on-a-Stick) (pending)
