@@ -33,4 +33,4 @@
   - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
   
   <h2>👨‍💻 Networking Projects:</h2>
-- Router on a Stick: 
+- Router on a Stick: (pending)
