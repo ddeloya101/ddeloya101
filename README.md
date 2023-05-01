@@ -30,4 +30,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ddeloya101/configuring-active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ddeloya101/NSG-and-Inspecting-Traffic-Between-Azure-VMs)
   - [Network File Shares and Permissions](https://github.com/ddeloya101/Network-File-Shares-and_Permissions)
-  - [Building Intuition for DNS]()
+  - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
