@@ -31,3 +31,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ddeloya101/NSG-and-Inspecting-Traffic-Between-Azure-VMs)
   - [Network File Shares and Permissions](https://github.com/ddeloya101/Network-File-Shares-and_Permissions)
   - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
+  
+  <h2>👨‍💻 Networking Projects:</h2>
+- Router on a Stick: 
