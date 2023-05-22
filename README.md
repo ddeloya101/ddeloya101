@@ -32,5 +32,6 @@
   - [Network File Shares and Permissions](https://github.com/ddeloya101/Network-File-Shares-and_Permissions)
   - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
   
-- <b>👨‍💻 Networking Projects<b>
+- <b>👨‍💻 Networking Projects</b>
+  - [Creating VLANs with CISCO](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main)
   - [Router on a Stick](https://github.com/ddeloya101/Router-on-a-Stick) (pending)
