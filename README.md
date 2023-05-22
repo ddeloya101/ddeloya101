@@ -7,18 +7,22 @@
 - 💬 Ask me about IT Networking, Cybersecurity, Content Creation, Collaborations, General Talk
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diego-deloya-1aaa35235/)
 
-<h2> All Projects:</h2>
+<h2> Releveant Projects:</h2>
 
 <details close>
 
 <div>
-
+ <h2> Network Projects:</h2>
+</div>
 </summary>
 
-<h2>👨‍💻 IT Help Desk Projects:</h2>
-
+- <b>👨‍💻 Networking Projects</b>
+  - [Creating VLANs with CISCO](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main)
+  - [Router on a Stick](https://github.com/ddeloya101/Router-on-a-Stick) (pending)
+  
 <div>
-
+<h2>👨‍💻 IT Help Desk Projects:</h2>
+</div>
 </summary>
 
 - <b>osTicket (Implementing a Help Desk Ticketing System)</b>
@@ -31,7 +35,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ddeloya101/NSG-and-Inspecting-Traffic-Between-Azure-VMs)
   - [Network File Shares and Permissions](https://github.com/ddeloya101/Network-File-Shares-and_Permissions)
   - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
-  
-- <b>👨‍💻 Networking Projects</b>
-  - [Creating VLANs with CISCO](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main)
-  - [Router on a Stick](https://github.com/ddeloya101/Router-on-a-Stick) (pending)
+
