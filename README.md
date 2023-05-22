@@ -19,6 +19,7 @@
 - <b>👨‍💻 Networking Projects</b>
   - [Creating VLANs with CISCO](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main)
   - [Router on a Stick](https://github.com/ddeloya101/Router-on-a-Stick) (pending)
+  - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
   
 <div>
 <h2>👨‍💻 IT Help Desk Projects:</h2>
@@ -34,5 +35,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ddeloya101/configuring-active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ddeloya101/NSG-and-Inspecting-Traffic-Between-Azure-VMs)
   - [Network File Shares and Permissions](https://github.com/ddeloya101/Network-File-Shares-and_Permissions)
-  - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
 
