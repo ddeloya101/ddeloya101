@@ -17,7 +17,6 @@
 </summary>
 
 - <b>👨‍💻 [Building a SOC + Honeynet in Azure (Live Traffic)]</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)]([https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main](https://github.com/ddeloya101/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)
 
 <div>
  <h2> 👨‍💻 Networking Projects:</h2>
