@@ -16,7 +16,7 @@
 </div>
 </summary>
 
-- <b>👨‍💻 [Building a SOC + Honeynet in Azure (Live Traffic)]</b>
+- <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/ddeloya101/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)</b>
 
 <div>
  <h2> 👨‍💻 Networking Projects:</h2>
