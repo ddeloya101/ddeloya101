@@ -20,11 +20,10 @@
   - [Building a SOC + Honeynet in Azure (Live Traffic)]([https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main](https://github.com/ddeloya101/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)
 
 <div>
- <h2> Network Projects:</h2>
+ <h2> 👨‍💻 Networking Projects:</h2>
 </div>
 </summary>
 
-- <b>👨‍💻 Networking Projects</b>
   - [Creating VLANs with CISCO](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main)
   - [Router on a Stick](https://github.com/ddeloya101/Router-on-a-Stick) (pending)
   - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
