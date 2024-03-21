@@ -16,13 +16,18 @@
 </div>
 </summary>
 
+- <b>👨‍💻 Cyber Security Projects</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)]([https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main](https://github.com/ddeloya101/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)
+  
+<div>
+
 - <b>👨‍💻 Networking Projects</b>
   - [Creating VLANs with CISCO](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/tree/main)
   - [Router on a Stick](https://github.com/ddeloya101/Router-on-a-Stick) (pending)
   - [Building Intuition for DNS](https://github.com/ddeloya101/Building-Intuition-for-DNS)
   
 <div>
-<h2>👨‍💻 IT Help Desk Projects:</h2>
+<h2>👨‍💻 System Administrator Projects:</h2>
 </div>
 </summary>
 
