@@ -1,4 +1,4 @@
-### Aspiring NOC/SOC Technician 👋
+### Aspiring SOC Technician 👋
 
 - 🧠 I'm actively improving my skillset, enjoy the show
 - 🌱 I’m currently learning Cloud Computing Essentials
