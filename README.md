@@ -1,7 +1,7 @@
 ### Aspiring SOC Technician 👋
 
 - 🧠 I'm actively improving my skillset, enjoy the show
-- 🌱 I’m currently learning Cloud Computing Essentials
+- 🌱 I’m currently enhancing Cyber Security Skills
 - 👯 I’m looking to collaborate on Cybersecurity Projects
 - 🌍 I'm mostly active within the LinkedIn, Discord, and Github
 - 💬 Ask me about IT Networking, Cybersecurity, Content Creation, Collaborations, General Talk
