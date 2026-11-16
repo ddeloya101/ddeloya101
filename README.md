@@ -1,4 +1,4 @@
-### Aspiring SOC Technician 👋
+### Aspiring Cloud Engineer 👋
 
 - 🧠 I'm actively improving my skillset, enjoy the show
 - 🌱 I’m currently enhancing Cyber Security Skills
